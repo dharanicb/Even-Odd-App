@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  height: 500px;
+  width: 800px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  text-align: center;
+  color: #0f172a;
+  margin: 15px;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+.count-value {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin: 6px;
+}
+.description {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin: 3px;
+}
+
+button {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  color: #1e293b;
+  border-radius: 8px;
+  border-width: 0px;
+  background-color: #fddddb;
+  height: 30px;
+  margin: 6px;
+  width: 200px;
+  padding: 5px;
+  align-self: center;
+  margin-right: 30px;
+}
